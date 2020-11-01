@@ -24,9 +24,7 @@ module.exports = {
         type: 'blog',
         startYear: '2020',
         authorAvatar: '/assets/img/logo.png',
-        subSidebar: 'auto', nav: [
-            { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' }
-        ], friendLink: [
+        friendLink: [
             {
                 title: 'vuepress-theme-reco',
                 desc: 'A simple and beautiful vuepress Blog & Doc theme.',
