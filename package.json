@@ -1,13 +1,20 @@
 {
-  "name": "vuepree",
+  "name": "",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/crtxr1998/vuepress.git",
+  "author": "itxue <517400464@qq.com>",
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.7.1"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  }
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-theme-antdocs": "^1.2.0",
+    "vuepress-theme-reco": "^1.5.7"
+  },
+  "description": ""
 }
