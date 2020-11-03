@@ -8,28 +8,7 @@ module.exports = {
       lang: 'zh-CN',
     },
   },
-  head: [
-    [
-      'meta',
-      {
-        name: 'viewport',
-        content: 'width=device-width,initial-scale=1,user-scalable=no',
-      },
-    ],
-    ['meta', { property: 'og:url', content: 'https://sigure.xyz' }],
-    ['meta', { property: 'og:site_name', content: 'Itxue' }],
-    ['meta', { property: 'og:image', content: '/bg.jpg' }],
-    ['meta', { property: 'og:description', content: '寻' }],
-    ['meta', { property: 'og:title', content: 'Itxue' }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#222222' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'apple-touch-icon', href: '/icons/favicon152.png' }],
-    ['link', { rel: 'mask-icon', href: '/icons/favicon152.png', color: '#3eaf7c' }],
-    ['meta', { name: 'msapplication-TileImage', content: '/icons/favicon144.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-  ],
+
 
   markdown: {
     // 代码显示行号
