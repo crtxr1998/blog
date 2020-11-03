@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sigure.xyz</id>
+    <title>Itxue</title>
+    <updated>2020-11-03T12:29:18.164Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://sigure.xyz"/>
+    <link rel="self" href="https://sigure.xyz/feed.atom"/>
+    <subtitle>寻</subtitle>
+    <entry>
+        <title type="html"><![CDATA[11-2]]></title>
+        <id>https://sigure.xyz/posts/2020/11/11/_2.html</id>
+        <link href="https://sigure.xyz/posts/2020/11/11/_2.html">
+        </link>
+        <updated>2020-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first post.]]></summary>
+    </entry>
+</feed>

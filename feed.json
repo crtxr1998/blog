@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Itxue",
+    "home_page_url": "https://sigure.xyz",
+    "feed_url": "https://sigure.xyz/feed.json",
+    "description": "寻",
+    "items": [
+        {
+            "id": "https://sigure.xyz/posts/2020/11/11/_2.html",
+            "url": "https://sigure.xyz/posts/2020/11/11/_2.html",
+            "title": "11-2",
+            "summary": "This is my first post.",
+            "date_modified": "2020-11-11T00:00:00.000Z"
+        }
+    ]
+}
