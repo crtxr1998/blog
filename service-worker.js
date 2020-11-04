@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2f9bb5eaebc73237add3adaa2dabf83c"
+    "revision": "c2adbbb3649f92634f0a53128b717d5f"
   },
   {
     "url": "about.html",
-    "revision": "2726c84c83f8ca5b810d254c5eab6849"
+    "revision": "10327e9cc737fdb4c4c55083931c4668"
   },
   {
     "url": "assets/css/0.styles.0df90247.css",
@@ -334,8 +334,8 @@ self.__precacheManifest = [
     "revision": "3482c1a32f4c7ef4a0dc75f85310b809"
   },
   {
-    "url": "assets/js/app.9056f9c3.js",
-    "revision": "5261dcb5ab77209752ceaec2287f131f"
+    "url": "assets/js/app.96878b2d.js",
+    "revision": "ad5efceeecd12fd97c2ce9b3ad2a10c4"
   },
   {
     "url": "assets/js/vendors~flowchart.3e967298.js",
@@ -351,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "friends.html",
-    "revision": "abe6e32274c61b0d3b9177a31124ff8c"
+    "revision": "8ac65d89d74da5b21da8e9046dca9032"
   },
   {
     "url": "icons/favicon144.png",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b6c1d7cbcf611287c10827c30ff166db"
+    "revision": "e4ca903813748bb12c4aa4c4a3367de7"
   },
   {
     "url": "info-bg.jpg",
@@ -395,27 +395,27 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/11/11/_2.html",
-    "revision": "d91d9476dd10085e2a06d73423e352bc"
+    "revision": "e4d791f3f5b748915c39abfec8231fd5"
   },
   {
     "url": "posts/categories/11.-2.html",
-    "revision": "f51197811f4831cfd1cb71ede22a34a7"
+    "revision": "3c2487b5222fbaa9ad0f11274a0254fe"
   },
   {
     "url": "posts/categories/index.html",
-    "revision": "38007163a880334798795ea6cad0ab18"
+    "revision": "059b40e05e5c087c52a98853fa44ca84"
   },
   {
     "url": "posts/index.html",
-    "revision": "e9b706716e96b1f8313bb26f48781f4f"
+    "revision": "a778b190aa18e1a69992f4a406148851"
   },
   {
     "url": "posts/tags/index.html",
-    "revision": "66cca898703cc6eee036474123610d92"
+    "revision": "27aefc6f6ca94a0e536d52f829097189"
   },
   {
     "url": "posts/tags/world.html",
-    "revision": "5e08e1e97434257bfac0c7a3af9cd4b1"
+    "revision": "0bcd763792098c32faedc49a2a83f5fe"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
