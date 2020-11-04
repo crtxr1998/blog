@@ -181,10 +181,10 @@ module.exports = {
 
     // 评论配置，参考下方 [页面评论] 章节
     comments: {
-      owner: 'Itxue',
-      repo: 'Itxue',
-      clientId: '02c64bbb4f2a3b0ec621',
-      clientSecret: 'fb5ea1b5e6117ae25abb0459489f6a0359048d7f',
+      owner: 'crtxr1998',
+      repo: 'vuepress',
+      clientId: '7a32280f3ba3ad98fcca',
+      clientSecret: '0266abe499b179a938e88470959bb0d67b9108c6',
       prefix: '💬 ',
     },
 
