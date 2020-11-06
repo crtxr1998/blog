@@ -10,16 +10,14 @@ layout: FriendsLayout
 
 ```json
 {
-   "name": "SigureMo",
-   "url": "https://sigure.xyz",
+   "name": "Itxve",
+   "url": "https://itxve.cn",
    "description": "一个小透明的透明世界",
-   "avatar": "https://sigure.xyz/avatar.jpg"
+   "avatar": "https://itxve.cn/avatar.jpg"
 }
 ```
 
 ## 交友标准
 
--  文章大多是原创作品，转载内容尽可能少
 -  站点使用 https 协议
 -  建议先友后链
--  可爱！毕竟可爱是第一驱动力（SigureMo 说的！）
