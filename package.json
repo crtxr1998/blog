@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/crtxr1998/vuepress.git",
-  "author": "itxue <517400464@qq.com>",
+  "author": "Itxve",
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.7.1"
@@ -11,8 +11,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "docs:serve": "vuepress build docs && npx serve docs/.vuepress/dist",
-    "img:upload": "bash scripts/upload-img.sh",
+    "upload": "bash scripts/upload-img.sh",
     "r": "python scripts/run.py"
   },
   "keywords": [
@@ -40,6 +39,9 @@
     "vuepress-plugin-meting": "^0.1.1",
     "vuepress-plugin-ribbon": "^1.0.2",
     "vuepress-theme-meteorlxy": "^1.9.0"
+  }, 
+  "gitHooks": {
+    "commit-msg": "node scripts/verifyCommit.js"
   },
   "description": "blog"
 }
