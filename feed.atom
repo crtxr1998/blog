@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sigure.xyz</id>
     <title>Itxue</title>
-    <updated>2020-11-10T23:07:13.828Z</updated>
+    <updated>2020-11-11T23:10:31.428Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://sigure.xyz"/>
     <link rel="self" href="https://sigure.xyz/feed.atom"/>
