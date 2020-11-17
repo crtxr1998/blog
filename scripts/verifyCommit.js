@@ -1,4 +1,4 @@
-// Invoked on the commit-msg git hook by yorkie.
+// Invoked on the commit-msg git hook by yorkie.first
 
 const chalk = require("chalk");
 const msgPath = process.env.GIT_PARAMS;
@@ -7,8 +7,8 @@ const msg = require("fs")
   .trim();
 
 const releaseRE = /^v\d/;
-// const commitRE = /^(revert: )?(feat|fix|docs|dx|refactor|perf|test|workflow|build|ci|chore|types|wip|release|deps)(\(.+\))?: .{1,50}/;
-const commitRE = /^((:.+:)|(\ud83c[\udf00-\udfff])|(\ud83d[\udc00-\ude4f\ude80-\udeff])|[\u2600-\u2B55]) (revert: )?(feat|fix|docs|dx|refactor|perf|test|workflow|build|ci|chore|types|wip|release|deps)(\(.+\))?: .{1,50}/;
+// const commitRE = /^(revert: )?(feat|fix|docs|dx|refactor|perf|test|workflow|build|ci|chore|types|wip|release|deps)(\(.+\))?: .{1,80}/;
+const commitRE = /^((:.+:)|(\ud83c[\udf00-\udfff])|(\ud83d[\udc00-\ude4f\ude80-\udeff])|[\u2600-\u2B55]) (revert: )?(feat|fix|docs|dx|refactor|perf|test|workflow|build|ci|chore|types|wip|release|deps)(\(.+\))?: .{1,80}/;
 
 if (!releaseRE.test(msg) && !commitRE.test(msg)) {
   console.log();
