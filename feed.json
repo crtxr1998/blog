@@ -1,14 +1,14 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Itxue",
-    "home_page_url": "https://sigure.xyz",
-    "feed_url": "https://sigure.xyz/feed.json",
-    "description": "寻",
+    "title": "Itxve",
+    "home_page_url": "https://itxve.cn",
+    "feed_url": "https://itxve.cn/feed.json",
+    "description": "到此为止了吗🦕",
     "items": [
         {
-            "id": "https://sigure.xyz/posts/2020/11/11/_2.html",
-            "url": "https://sigure.xyz/posts/2020/11/11/_2.html",
-            "title": "11-2",
+            "id": "https://itxve.cn/posts/2020/11/11/_2.html",
+            "url": "https://itxve.cn/posts/2020/11/11/_2.html",
+            "title": "11-2dddd",
             "summary": "This is my first post.",
             "date_modified": "2020-11-11T00:00:00.000Z"
         }

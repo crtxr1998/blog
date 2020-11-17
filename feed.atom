@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sigure.xyz</id>
-    <title>Itxue</title>
-    <updated>2020-11-16T23:08:14.593Z</updated>
+    <id>https://itxve.cn</id>
+    <title>Itxve</title>
+    <updated>2020-11-17T15:22:15.745Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
-    <link rel="alternate" href="https://sigure.xyz"/>
-    <link rel="self" href="https://sigure.xyz/feed.atom"/>
-    <subtitle>寻</subtitle>
+    <link rel="alternate" href="https://itxve.cn"/>
+    <link rel="self" href="https://itxve.cn/feed.atom"/>
+    <subtitle>到此为止了吗🦕</subtitle>
     <entry>
-        <title type="html"><![CDATA[11-2]]></title>
-        <id>https://sigure.xyz/posts/2020/11/11/_2.html</id>
-        <link href="https://sigure.xyz/posts/2020/11/11/_2.html">
+        <title type="html"><![CDATA[11-2dddd]]></title>
+        <id>https://itxve.cn/posts/2020/11/11/_2.html</id>
+        <link href="https://itxve.cn/posts/2020/11/11/_2.html">
         </link>
         <updated>2020-11-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is my first post.]]></summary>
