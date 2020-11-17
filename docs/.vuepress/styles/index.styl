@@ -9,18 +9,19 @@ body
       cursor url('/cursor/default.cur'), auto
 
 .container
-  aside
+  .aside
     .info-card
       .info-card-body
-        height: 150px;
-        width 180px;
-        margin-bottom: 60px;
-        border-top-left-radius: 5px;
-        border-top-right-radius: 5px;
         cursor url('/cursor/default.cur'), auto
 
 a, button, #goTop, .jump, h1, .info-avatar, .post-tag
   cursor url('/cursor/link.cur'), auto
+
+//替换返回顶部的图标
+@media screen and (max-width: 1440px)
+  .show-cat, .hide-cat
+    mask url('/top.svg') no-repeat !important
+    // background-size cover !important
 
 // 标题
 .header
@@ -99,7 +100,7 @@ strong
   border 0 !important
   padding-top 15px
   padding-bottom 40px !important
-  background-color #3c585a
+  background-color #3c585a00
   .footer-sns-links
     display none
   .footer-text

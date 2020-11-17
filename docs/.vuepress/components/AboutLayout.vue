@@ -7,7 +7,7 @@
     <div v-if="vssue" id="post-comments" class="main-div">
       <Vssue :title="vssueTitle" :issue-id="vssueId" />
     </div>
-    AboutLayout
+    
   </div>
 </template>
 

@@ -6,7 +6,7 @@
   "author": "Itxve",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.7.1"
+    "yorkie": "^2.0.0"
   },
   "scripts": {
     "dev": "vuepress dev docs",
@@ -30,6 +30,7 @@
     "markdown-it-task-lists": "^2.1.1",
     "markdown-it-vuepress-code-snippet-enhanced": "^1.0.1",
     "stylus": "^0.54.8",
+    "svg-stylus": "^0.0.5",
     "vuepress": "^1.7.1",
     "vuepress-plugin-cursor-effects": "^1.0.0",
     "vuepress-plugin-dynamic-title": "^1.0.0",
@@ -39,7 +40,7 @@
     "vuepress-plugin-meting": "^0.1.1",
     "vuepress-plugin-ribbon": "^1.0.2",
     "vuepress-theme-meteorlxy": "^1.9.0"
-  }, 
+  },
   "gitHooks": {
     "commit-msg": "node scripts/verifyCommit.js"
   },

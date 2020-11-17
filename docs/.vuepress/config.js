@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Itxue',
-  description: '寻',
+  title: 'Itxve',
+  description: '到此为止了吗🦕',
   port: 1127,
   evergreen: true,
   locales: {
@@ -8,8 +8,28 @@ module.exports = {
       lang: 'zh-CN',
     },
   },
-
-
+  head: [
+    [
+      'meta',
+      {
+        name: 'viewport',
+        content: 'width=device-width,initial-scale=1,user-scalable=no',
+      },
+    ],
+    ['meta', { property: 'og:url', content: 'https://itxve.cn' }],
+    ['meta', { property: 'og:site_name', content: 'Itxve' }],
+    ['meta', { property: 'og:image', content: '/bg.jpg' }],
+    ['meta', { property: 'og:description', content: '到此为止了吗🦕' }],
+    ['meta', { property: 'og:title', content: 'Itxve' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['meta', { name: 'theme-color', content: '#222222' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: '/icons/favicon152.png' }],
+    ['link', { rel: 'mask-icon', href: '/icons/favicon152.png', color: '#3eaf7c' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/icons/favicon144.png' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+  ],
   markdown: {
     // 代码显示行号
     lineNumbers: true,
@@ -40,8 +60,8 @@ module.exports = {
     [
       'ribbon',
       {
-        size: 90,
-        opacity: 0.8,
+        size: 20,
+        opacity: 0.4,
         zIndex: -1,
       },
     ],
@@ -72,14 +92,14 @@ module.exports = {
     [
       'feed',
       {
-        canonical_base: 'https://sigure.xyz',
+        canonical_base: 'https://itxve.cn',
       },
     ],
     // GA 插件
     [
       '@vuepress/google-analytics',
       {
-        ga: 'UA-164960376-1',
+        ga: 'UA-183244587-1',
       },
     ],
     // Meting 插件
@@ -106,36 +126,35 @@ module.exports = {
       },
     ],
   ],
-
   // 主题配置
   theme: 'meteorlxy',
   themeConfig: {
     lang: Object.assign(require('vuepress-theme-meteorlxy/lib/langs/en-US'), {
-      home: '寻',
+      home: '只到此为止了吗🦕',
+      posts: "归档文章"
     }),
     personalInfo: {
       // 昵称
-      nickname: 'Itxue',
+      nickname: 'Itxve',
       // 个人简介 (支持 HTML)
-      description: '私にとって、本物とはなんですか。',
+      description: 'To be a good person',
       // 电子邮箱
-      email: 'sigure.qaq@gmail.com',
+      email: '1770665499@qq.com',
       // 所在地
-      location: 'DLC, China',
+      location: 'Chang Sha',
       // 组织
-      organization: 'Dalian University of Technology',
+      organization: '',
       // 头像
       avatar: '/avatar.jpg',
       // 社交平台帐号信息
       sns: {
         // GitHub 帐号和链接
         github: {
-          account: 'Itxue',
-          link: 'https://github.com/crtxr1998',
+          account: 'Itxve',
+          link: 'https://github.com/itxve',
         },
       },
     },
-
     // 上方 header 的相关设置 (可选)
     header: {
       // header 的背景，可以使用图片，或者随机变化的图案（geopattern）
@@ -146,7 +165,6 @@ module.exports = {
       // 是否在 header 显示标题
       showTitle: true,
     },
-
     // 底部 footer 的相关设置 (可选)
     footer: {
       // 是否显示 Powered by VuePress
@@ -154,10 +172,8 @@ module.exports = {
       // 是否显示使用的主题
       poweredByTheme: true,
       // 添加自定义 footer (支持 HTML)
-      custom: `Copyright 2018-present <a href="https://github.com/crtxr1998" target="_blank">Itxue</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC 4.0 BY-SA</a><br/>
-        <a href="http://www.beian.miit.gov.cn/" target="_blank">辽ICP备19014250号</a>`,
+      custom: ``,
     },
-
     // 个人信息卡片相关设置 (可选)
     infoCard: {
       // 卡片 header 的背景，可以使用图片，或者随机变化的图案（geopattern）
@@ -166,33 +182,28 @@ module.exports = {
         url: '/info-bg.jpg',
       },
     },
-
     // 是否显示文章的最近更新时间
     lastUpdated: true,
-
     // 顶部导航栏内容
     nav: [
-      { text: 'Home', link: '/', exact: true },
-      { text: 'Posts', link: '/posts/', exact: false },
-      { text: 'Friends', link: '/friends.html', exact: false },
-      { text: 'About', link: '/about.html', exact: false },
-      { text: 'GitHub', link: 'https://github.com/crtxr1998' },
+      { text: '主页', link: '/', exact: true },
+      { text: '文章', link: '/posts/', exact: false },
+      { text: '友链', link: '/friends.html', exact: false },
+      { text: '关于我', link: '/about.html', exact: false },
+      { text: '动态', link: '/aboutvs.html', exact: false},
     ],
-
     // 评论配置，参考下方 [页面评论] 章节
     comments: {
-      owner: 'crtxr1998',
-      repo: 'vuepress',
+      owner: 'itxve',
+      repo: 'blog',
       clientId: '7a32280f3ba3ad98fcca',
       clientSecret: '0266abe499b179a938e88470959bb0d67b9108c6',
       prefix: '💬 ',
     },
-
     // 分页配置 (可选)
     pagination: {
       perPage: 5,
     },
-
     // 默认页面（可选，默认全为 true）
     defaultPages: {
       // 是否允许主题自动添加 Home 页面 (url: /)
@@ -206,7 +217,6 @@ module.exports = {
     serviceWorker: {
       updatePopup: true,
     },
-
     // 友链配置
     friends: [
       {
