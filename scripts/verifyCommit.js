@@ -1,4 +1,4 @@
-// Invoked on the commit-msg git hook by yorkie.first
+// Invoked on the commit-msg git hook by yorkie.
 
 const chalk = require("chalk");
 const msgPath = process.env.GIT_PARAMS;
