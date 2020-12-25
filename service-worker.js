@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0f084ca0cbdaa7790568f1928a95753d"
+    "revision": "36e809f3f55f7f56f2f5df2f61bdfb4d"
   },
   {
     "url": "about.html",
-    "revision": "abf281ec1490b693e4ceaf0300ee2fb7"
+    "revision": "58036683038754a7764ba7a5e7d79b37"
   },
   {
     "url": "assets/css/0.styles.bfa7193d.css",
@@ -334,8 +334,8 @@ self.__precacheManifest = [
     "revision": "3482c1a32f4c7ef4a0dc75f85310b809"
   },
   {
-    "url": "assets/js/app.968fa928.js",
-    "revision": "8fc6268b18409649e2ec786441cc08cb"
+    "url": "assets/js/app.d7025b11.js",
+    "revision": "e2a926e4f6318b91504a231f25e8efbf"
   },
   {
     "url": "assets/js/vendors~flowchart.3e967298.js",
@@ -351,11 +351,11 @@ self.__precacheManifest = [
   },
   {
     "url": "dynamic.html",
-    "revision": "0c1ad69ca699e12174ce617e6ffacd14"
+    "revision": "a268709bb0c85902f22a214599016c88"
   },
   {
     "url": "friends.html",
-    "revision": "baf95172f3bde784364602dc843b3808"
+    "revision": "a26de03c210718f2b23364a9c5df106d"
   },
   {
     "url": "icons/favicon144.png",
@@ -391,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a0ca34d3aef5bb8f74ca6e27363822c1"
+    "revision": "ad03da47c3c818fa66570160445cae4f"
   },
   {
     "url": "info-bg.jpg",
@@ -399,27 +399,27 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/11/11/_2.html",
-    "revision": "d529605215b0862a9e01cd22db41f725"
+    "revision": "d316246b484ae4dbcb012bd92b87c8a6"
   },
   {
     "url": "posts/categories/index.html",
-    "revision": "03a057e7f638b93a6c9c072ac47f1d28"
+    "revision": "79b03390db1dc6909431735fd396c687"
   },
   {
     "url": "posts/categories/Java.html",
-    "revision": "0ba5b45e5bb73db5387c343f97e2719f"
+    "revision": "7e3074f8176d69fa13ba74dea469e166"
   },
   {
     "url": "posts/index.html",
-    "revision": "8c95cee278089cf06922e906469a9948"
+    "revision": "38d799266c704d3d9991e556b690cf98"
   },
   {
     "url": "posts/tags/index.html",
-    "revision": "fd8517de77f67dda248f037bd698840b"
+    "revision": "bad285e5a5d19bd5b4fd1e379997cfea"
   },
   {
     "url": "posts/tags/world.html",
-    "revision": "9dc80ceb3ffcaa7644abfaa10ce5fffd"
+    "revision": "1e6f6d76e9280ff780500ed51c7f75d3"
   },
   {
     "url": "top.svg",
