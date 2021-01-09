@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0f084ca0cbdaa7790568f1928a95753d"
+    "revision": "5495a1544c9c7b28d64f01bbed4e1e07"
   },
   {
     "url": "about.html",
-    "revision": "abf281ec1490b693e4ceaf0300ee2fb7"
+    "revision": "5ebfc823ad38493eb36a4aebdf7e9978"
   },
   {
     "url": "assets/css/0.styles.bfa7193d.css",
@@ -334,8 +334,8 @@ self.__precacheManifest = [
     "revision": "3482c1a32f4c7ef4a0dc75f85310b809"
   },
   {
-    "url": "assets/js/app.968fa928.js",
-    "revision": "8fc6268b18409649e2ec786441cc08cb"
+    "url": "assets/js/app.48e9adbc.js",
+    "revision": "1d08ce17880362c2d9dde3f4d7bf7088"
   },
   {
     "url": "assets/js/vendors~flowchart.3e967298.js",
@@ -351,11 +351,11 @@ self.__precacheManifest = [
   },
   {
     "url": "dynamic.html",
-    "revision": "0c1ad69ca699e12174ce617e6ffacd14"
+    "revision": "61505b9879661fb74a86dc3ae239979c"
   },
   {
     "url": "friends.html",
-    "revision": "baf95172f3bde784364602dc843b3808"
+    "revision": "06e88125ad22698e3e8287a4d2bbfca9"
   },
   {
     "url": "icons/favicon144.png",
@@ -391,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a0ca34d3aef5bb8f74ca6e27363822c1"
+    "revision": "ef9f2eecbac1ed34dadbc0dba3c125fb"
   },
   {
     "url": "info-bg.jpg",
@@ -399,27 +399,27 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/11/11/_2.html",
-    "revision": "d529605215b0862a9e01cd22db41f725"
+    "revision": "156a6c3857c1551edfcb4576c8e63c48"
   },
   {
     "url": "posts/categories/index.html",
-    "revision": "03a057e7f638b93a6c9c072ac47f1d28"
+    "revision": "5ab5a079f6308674be3f1de0bae0eb70"
   },
   {
     "url": "posts/categories/Java.html",
-    "revision": "0ba5b45e5bb73db5387c343f97e2719f"
+    "revision": "5b5e813ee53947662e55a4ed582b85ce"
   },
   {
     "url": "posts/index.html",
-    "revision": "8c95cee278089cf06922e906469a9948"
+    "revision": "d41322bd5c1afd0787b7512fcbc39d12"
   },
   {
     "url": "posts/tags/index.html",
-    "revision": "fd8517de77f67dda248f037bd698840b"
+    "revision": "975df8f9aefcba2d3d77530a717c2e6e"
   },
   {
     "url": "posts/tags/world.html",
-    "revision": "9dc80ceb3ffcaa7644abfaa10ce5fffd"
+    "revision": "f6cab1ca73cb8c0cdab793bb75febe82"
   },
   {
     "url": "top.svg",
