@@ -10,6 +10,14 @@ meta:
 header-title: true
 ---
 
+::: tip
+
+Manjaro Linux的安装及配置
+
+:::
+
+<!-- more -->
+
 ### 下载官方iso(我选的是只有**2G大小的Minimal**无任何预装软件)
 
 [https://manjaro.org/downloads/official/gnome/](https://manjaro.org/downloads/official/gnome/)
