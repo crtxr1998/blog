@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0b2fbcc962760b50e5425f2d7c1a7898"
+    "revision": "0c71c9fdcf6ef012e06fd460cfb34d4f"
   },
   {
     "url": "about.html",
-    "revision": "fe1e5f8a87ddc64f7a9d7fb1a139daf3"
+    "revision": "1b8c46efcd662d28dd458e0ec93ec8fb"
   },
   {
     "url": "assets/css/0.styles.bfa7193d.css",
@@ -286,8 +286,8 @@ self.__precacheManifest = [
     "revision": "facc8f3596b49a63387cc2bcec11d41f"
   },
   {
-    "url": "assets/js/19.ec246f74.js",
-    "revision": "f33f0eb600b225d7299f908479194081"
+    "url": "assets/js/19.97d7d705.js",
+    "revision": "f7d65f3ede2997a829094bccef626ccb"
   },
   {
     "url": "assets/js/20.723ba7f2.js",
@@ -334,8 +334,8 @@ self.__precacheManifest = [
     "revision": "3482c1a32f4c7ef4a0dc75f85310b809"
   },
   {
-    "url": "assets/js/app.4543fcaf.js",
-    "revision": "683c0790d043e78845b0ee9800bfa9f3"
+    "url": "assets/js/app.5a2627b7.js",
+    "revision": "283ec01129f420f4cf27f60ae35261d5"
   },
   {
     "url": "assets/js/vendors~flowchart.3e967298.js",
@@ -351,11 +351,11 @@ self.__precacheManifest = [
   },
   {
     "url": "dynamic.html",
-    "revision": "fe165ace4e22d3e4e9b7945fd5f46c11"
+    "revision": "75aad09e35bc93c2de5f97ed5d1bfc00"
   },
   {
     "url": "friends.html",
-    "revision": "d546180d1634a6a5bb6e76cdf817d3a9"
+    "revision": "cb677d31458c23b7d39ef970b17f987a"
   },
   {
     "url": "icons/favicon144.png",
@@ -391,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5752e3c16b7ed04068703bc7ea22681d"
+    "revision": "f3e5edd19066b7b52d86fd62cf4a0b65"
   },
   {
     "url": "info-bg.jpg",
@@ -399,27 +399,27 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2021/04/09/manjaro.html",
-    "revision": "069f617b84db9c42fdcd1d949e4bb83f"
+    "revision": "c110ac83664604cebd09cb3cc3ca6831"
   },
   {
     "url": "posts/categories/index.html",
-    "revision": "a4403281b2a85dcadea521940350180f"
+    "revision": "28a536317c751b16d04262ef9ccad446"
   },
   {
     "url": "posts/categories/System.html",
-    "revision": "c0c911b5aaff84626c43c668a8e5db22"
+    "revision": "75873dc65c126dc088b1d4060b08bb53"
   },
   {
     "url": "posts/index.html",
-    "revision": "f9cf2051b5015ee9e870687eaa7dabb6"
+    "revision": "d2e60aed1c9706c5f1ecc8b47a9ea021"
   },
   {
     "url": "posts/tags/index.html",
-    "revision": "47bd6abb3ab633ced8543c910086bae0"
+    "revision": "e1fbb968129aaab4505c4ef39e1cd443"
   },
   {
     "url": "posts/tags/world.html",
-    "revision": "acfd7ef1f48dc984cb3951d9de2e2044"
+    "revision": "905569d9c8dd819d55992f5730a6ed24"
   },
   {
     "url": "top.svg",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itxve.cn</id>
     <title>Itxve</title>
-    <updated>2021-04-09T13:04:57.648Z</updated>
+    <updated>2021-04-09T13:24:10.399Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://itxve.cn"/>
     <link rel="self" href="https://itxve.cn/feed.atom"/>
@@ -13,6 +13,8 @@
         <link href="https://itxve.cn/posts/2021/04/09/manjaro.html">
         </link>
         <updated>2021-04-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://manjaro.org/downloads/official/gnome/]]></summary>
+        <summary type="html"><![CDATA[TIP
+Manjaro Linux的安装及配置
+]]></summary>
     </entry>
 </feed>
