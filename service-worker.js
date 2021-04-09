@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5495a1544c9c7b28d64f01bbed4e1e07"
+    "revision": "0b2fbcc962760b50e5425f2d7c1a7898"
   },
   {
     "url": "about.html",
-    "revision": "5ebfc823ad38493eb36a4aebdf7e9978"
+    "revision": "fe1e5f8a87ddc64f7a9d7fb1a139daf3"
   },
   {
     "url": "assets/css/0.styles.bfa7193d.css",
@@ -286,16 +286,16 @@ self.__precacheManifest = [
     "revision": "facc8f3596b49a63387cc2bcec11d41f"
   },
   {
-    "url": "assets/js/19.d888555e.js",
-    "revision": "9cbbb1f7979b00f27bc9ddb3c26f8e19"
+    "url": "assets/js/19.ec246f74.js",
+    "revision": "f33f0eb600b225d7299f908479194081"
   },
   {
     "url": "assets/js/20.723ba7f2.js",
     "revision": "193b710e271b178c34ba8002cab0b8f4"
   },
   {
-    "url": "assets/js/21.4c117a26.js",
-    "revision": "cd8b7f8a53afcd1b863b23e989c2f0d3"
+    "url": "assets/js/21.989bc2a3.js",
+    "revision": "3ce3d1ad377f8421b439f6a3c0840fe0"
   },
   {
     "url": "assets/js/22.b00901ad.js",
@@ -334,8 +334,8 @@ self.__precacheManifest = [
     "revision": "3482c1a32f4c7ef4a0dc75f85310b809"
   },
   {
-    "url": "assets/js/app.48e9adbc.js",
-    "revision": "1d08ce17880362c2d9dde3f4d7bf7088"
+    "url": "assets/js/app.4543fcaf.js",
+    "revision": "683c0790d043e78845b0ee9800bfa9f3"
   },
   {
     "url": "assets/js/vendors~flowchart.3e967298.js",
@@ -351,11 +351,11 @@ self.__precacheManifest = [
   },
   {
     "url": "dynamic.html",
-    "revision": "61505b9879661fb74a86dc3ae239979c"
+    "revision": "fe165ace4e22d3e4e9b7945fd5f46c11"
   },
   {
     "url": "friends.html",
-    "revision": "06e88125ad22698e3e8287a4d2bbfca9"
+    "revision": "d546180d1634a6a5bb6e76cdf817d3a9"
   },
   {
     "url": "icons/favicon144.png",
@@ -391,35 +391,35 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ef9f2eecbac1ed34dadbc0dba3c125fb"
+    "revision": "5752e3c16b7ed04068703bc7ea22681d"
   },
   {
     "url": "info-bg.jpg",
     "revision": "7b0ebfc5a4c178c3d183a6e0bdcd6843"
   },
   {
-    "url": "posts/2020/11/11/_2.html",
-    "revision": "156a6c3857c1551edfcb4576c8e63c48"
+    "url": "posts/2021/04/09/manjaro.html",
+    "revision": "069f617b84db9c42fdcd1d949e4bb83f"
   },
   {
     "url": "posts/categories/index.html",
-    "revision": "5ab5a079f6308674be3f1de0bae0eb70"
+    "revision": "a4403281b2a85dcadea521940350180f"
   },
   {
-    "url": "posts/categories/Java.html",
-    "revision": "5b5e813ee53947662e55a4ed582b85ce"
+    "url": "posts/categories/System.html",
+    "revision": "c0c911b5aaff84626c43c668a8e5db22"
   },
   {
     "url": "posts/index.html",
-    "revision": "d41322bd5c1afd0787b7512fcbc39d12"
+    "revision": "f9cf2051b5015ee9e870687eaa7dabb6"
   },
   {
     "url": "posts/tags/index.html",
-    "revision": "975df8f9aefcba2d3d77530a717c2e6e"
+    "revision": "47bd6abb3ab633ced8543c910086bae0"
   },
   {
     "url": "posts/tags/world.html",
-    "revision": "f6cab1ca73cb8c0cdab793bb75febe82"
+    "revision": "acfd7ef1f48dc984cb3951d9de2e2044"
   },
   {
     "url": "top.svg",

@@ -6,11 +6,11 @@
     "description": "到此为止了吗🦕",
     "items": [
         {
-            "id": "https://itxve.cn/posts/2020/11/11/_2.html",
-            "url": "https://itxve.cn/posts/2020/11/11/_2.html",
-            "title": "11-2dddd",
-            "summary": "This is my first post.",
-            "date_modified": "2020-11-11T00:00:00.000Z"
+            "id": "https://itxve.cn/posts/2021/04/09/manjaro.html",
+            "url": "https://itxve.cn/posts/2021/04/09/manjaro.html",
+            "title": "Manjaro的安装及配置",
+            "summary": "https://manjaro.org/downloads/official/gnome/",
+            "date_modified": "2021-04-09T00:00:00.000Z"
         }
     ]
 }
