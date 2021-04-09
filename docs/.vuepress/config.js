@@ -145,7 +145,7 @@ module.exports = {
       // 组织
       organization: '',
       // 头像
-      avatar: '/avatar.jpg',
+      avatar: 'https://avatars.githubusercontent.com/u/33005087?s=60&v=4',
       // 社交平台帐号信息
       sns: {
         // GitHub 帐号和链接

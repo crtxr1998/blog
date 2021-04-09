@@ -13,7 +13,7 @@ vssue: false
    "name": "Itxve",
    "url": "https://itxve.cn",
    "description": "一个小透明的透明世界",
-   "avatar": "https://itxve.cn/avatar.jpg"
+   "avatar": "https://api.itxve.cn/api/proxy/https://avatars.githubusercontent.com/u/33005087?s=60&v=4"
 }
 ```
 
